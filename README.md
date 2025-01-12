@@ -6,8 +6,7 @@ Junior Data Analyst
 Познакомился с Data в розничной торговле, понял, что аналитика – моя сфера.
 
 
-LinkedIn Badge CV TG Kaggle
-Инструменты:
+## Инструменты:
 Python  NumPy  Jupyter  Pandas  TensorFlow  Git
 Проекты:
 Название	Инструменты
