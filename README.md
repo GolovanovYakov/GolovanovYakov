@@ -7,6 +7,7 @@ Junior Data Analyst
 
 
 ## Инструменты:
+<img src="[URL_изображения](https://github.com/GolovanovYakov/My-repository/blob/main/My%20portfolio/Images/python-original.svg)" alt="Python" width="300" />
 ![Python](https://github.com/GolovanovYakov/My-repository/blob/main/My%20portfolio/Images/python-original.svg)  
 NumPy  Jupyter  Pandas  TensorFlow  Git
 ### Проекты:
