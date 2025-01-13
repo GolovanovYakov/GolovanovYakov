@@ -7,7 +7,7 @@ Junior Data Analyst
 
 
 ## Инструменты:
-<img src="[URL_изображения](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)" alt="Python" width="300" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;">
 
 NumPy  Jupyter  Pandas  TensorFlow  Git
 
