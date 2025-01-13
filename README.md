@@ -12,4 +12,5 @@ Junior Data Analyst
 |Название	                                             |   Инструменты                  |
 |------------------------------------------------------|--------------------------------|
 [Предсказание побед и поражений в футбольных матчах](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Football)
+[Выбор города для открытия новых ресторанов фаст-фуд](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Fastfood)
 
