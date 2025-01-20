@@ -15,3 +15,4 @@ Junior Data Analyst
 [Выбор города для открытия новых ресторанов фаст-фуд](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Fastfood)
 [Анализ результатов рекламной акции](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Final%20case)
 [Прогнозирование количества заказов такси](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Taxi)
+[Исседование базы данных полетов](https://github.com/GolovanovYakov/GolovanovYakov/tree/main/My%20portfolio/Airlines)
