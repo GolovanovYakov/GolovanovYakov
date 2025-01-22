@@ -15,4 +15,4 @@ Junior Data Analyst
 [Выбор города для открытия новых ресторанов фаст-фуд](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Fastfood)
 [Анализ результатов рекламной акции](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Final%20case)
 [Прогнозирование количества заказов такси](https://github.com/GolovanovYakov/My-repository/tree/main/My%20portfolio/Taxi)
-[Исседование базы данных полетов](https://github.com/GolovanovYakov/GolovanovYakov/tree/main/My%20portfolio/Airlines)
+[Исседование базы данных полетов](https://github.com/GolovanovYakov/GolovanovYakov/tree/main/My%20portfolio/Airlines)|<img src="https://camo.githubusercontent.com/25afa673977bdf4562caff68a888ddc87a5bf8be3770df8e095e96483956a8bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
