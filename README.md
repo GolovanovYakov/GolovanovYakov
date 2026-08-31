@@ -23,15 +23,8 @@
 
 | Название проекта | Используемые инструменты |
 | :--- | :--- |
-| [Предсказание побед и поражений в футбольных матчах](https://github.com) | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| [Выбор города для открытия новых ресторанов фаст-фуд](https://github.com) | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| [Анализ результатов рекламной акции](https://github.com) | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| [Прогнозирование количества заказов такси](https://github.com) | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| [Исследование базы данных полетов](https://github.com/tree/main/Airlines) | <img src="https://shields.io"/> |
-
----
-
-### 📬 Как со мной связаться:
-* **Telegram:** [@ваш_ник_в_телеграм](https://t.me) <!-- Замените на свою ссылку -->
-* **Email:** ваша_почта@example.com <!-- Замените на вашу почту -->
-* **Резюме:** [Ссылка на HeadHunter / LinkedIn](https://hh.ru) <!-- Замените на ссылку на резюме -->
+| [Предсказание побед и поражений в футбольных матчах](https://github.com) | `Python`, `Pandas`, `ML` |
+| [Выбор города для открытия новых ресторанов фаст-фуд](https://github.com) | `Python`, `Tableau` |
+| [Анализ результатов рекламной акции](https://github.com) | `Python`, `Pandas`, `A/B-тесты` |
+| [Прогнозирование количества заказов такси](https://github.com) | `Python`, `Pandas`, `Временные ряды` |
+| [Исследование базы данных полетов](https://github.com/tree/main/Airlines) | `SQL (PostgreSQL)` |
