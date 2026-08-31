@@ -7,15 +7,11 @@
 ---
 
 ### 🛠️ Инструменты и технологии:
-<p align="left">
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="NumPy"/>
-  <img src="https://shields.io" alt="Pandas"/>
-  <img src="https://shields.io" alt="PostgreSQL"/>
-  <img src="https://shields.io" alt="Tableau"/>
-  <img src="https://shields.io" alt="Jupyter"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
+* 🐍 **Python** (Pandas, NumPy, Scikit-learn)
+* 🐘 **SQL / PostgreSQL** (Оконные функции, сложные JOIN, CTE)
+* 📊 **Tableau** (Построение интерактивных дашбордов и BI-отчетность)
+* 📓 **Jupyter Notebook** & **Git** (Контроль версий и чистота кода)
+
 
 ---
 
