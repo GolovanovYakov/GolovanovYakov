@@ -21,7 +21,6 @@
 | :--- | :--- |
 | [⚽ Предсказание побед и поражений в футбольных матчах](My%20portfolio/Football) | `Python`, `Pandas`, `ML` |
 | [🍔 Выбор города для открытия новых ресторанов фаст-фуд](My%20portfolio/Fastfood) | `Python`, `Tableau` |
-| [📈 Анализ результатов рекламной акции](My%20portfolio/Final%20case) | `Python`, `Pandas`, `A/B-тесты` |
 | [🚖 Прогнозирование количества заказов такси](My%20portfolio/Taxi) | `Python`, `Pandas`, `Временные ряды` |
 | [✈️ Исследование базы данных полетов](My%20portfolio/Airlines) | `SQL (PostgreSQL)` |
 
